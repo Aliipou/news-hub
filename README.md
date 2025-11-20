@@ -76,7 +76,7 @@ A modern, full-stack web application for browsing and searching news from around
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Aliipou/news-hub/
 cd news-app2
 ```
 
